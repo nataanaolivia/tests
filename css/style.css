@@ -1,0 +1,161 @@
+body{
+    background-color: crimson;
+
+
+    margin: 70px;
+
+}
+
+p{
+    color: cyan;
+}
+
+.one{
+
+    color: forestgreen;
+    font-size: 60px;
+    font-family:cursive;
+    font-weight: bold;
+}
+
+.two{
+
+    border: gold 3px dotted;
+    border-radius: 10px  0  90px  100px ;
+
+    padding: 60px;
+}
+
+.three{
+    border-radius:90px;
+    width: 500px;
+    height: 100%;
+
+}
+a{
+    text-decoration: none;
+    color: chartreuse;
+
+}
+
+a:hover{
+   color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    border-bottom: cyan 4px solid;
+}
+
+
+#one{
+    background-color:   #b372c4 ;
+}
+
+#one:hover{
+    font-size: 60px;
+    font-weight: bolder;
+    color:  #72c474  ;
+    border-bottom: black  6px dotted;
+}
+
+#eleven{
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

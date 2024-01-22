@@ -1,0 +1,38 @@
+.one{
+    background-color: gold;
+}
+
+.two{
+    background-color: #b372c4;
+}
+.three{
+    background-color: deeppink;
+}
+#fourteen{
+    background-color: aqua;
+}
+.four{
+    background-color: coral;
+}
+
+a:hover{
+    color: gold;
+    font-weight: bolder;
+    font-size: larger;
+    border-bottom: deeppink 20px solid;
+}
+
+#twenty{
+    border-radius: 60px  100px 10px 0;
+    width: 30%;
+    height: 60%;
+}
+.five{
+    border-radius: 50px 3px 90px 30px;
+}
+body{
+    background-color: #b372c4;
+}
+.two{
+    border-radius: 90px 0 40px 100px;
+}
